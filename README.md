@@ -114,9 +114,9 @@ else:
 
 ## Output
 
-![3b1](https://github.com/Vanitha-SM/Search-Algorithm/assets/119557985/5fbadea7-4b4e-4f3d-85c1-b25bdd3cb46a)
-
 ![3b2](https://github.com/Vanitha-SM/Search-Algorithm/assets/119557985/6dd6cbb2-8d66-4c72-b91c-4f635acd85d2)
+
+![3b1](https://github.com/Vanitha-SM/Search-Algorithm/assets/119557985/5fbadea7-4b4e-4f3d-85c1-b25bdd3cb46a)
 
 ![Screenshot 2023-05-24 221747](https://github.com/Vanitha-SM/Search-Algorithm/assets/119557985/fa1e6499-4274-4724-99f7-668351bdcbad)
 
